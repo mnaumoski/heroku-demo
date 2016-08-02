@@ -1,0 +1,70 @@
+header {
+	background: white;
+	color: gray;
+	padding:20px;
+	margin:20px;
+	height:70px;
+	border: black;
+}
+
+#header {
+	background: #8FD8D8;
+	color:white;
+	padding:20px;
+	font-family: Georgia, Times, Times New Roman, serif;
+	margin-left: 60px;
+	font-size: 20px;
+	float: left;
+}
+
+
+#about {
+	
+	background: white;
+	padding: 45px;
+	color: gray;
+	float: right;
+
+}
+
+#portfolio {
+	background: white;
+	padding: 45px;
+	color: gray;
+	float: right;
+
+}
+
+#Contact {
+	background: white;
+	padding: 45px;
+	color: gray;
+	float: right;
+}
+.main-section {
+
+	background: white;
+	border: 2px solid gray;
+	padding: 45px;
+	width:640px;
+	margin: 50px;
+	clear: both;
+	overflow: auto;
+}
+#blue-line {
+	
+	background: #2f2f2f;
+
+	padding: 10px;
+}
+body {
+	width:960px;
+	background-image: url("brickwall.png");
+	background-size: cover;
+	background-repeat: none;
+	}
+
+	#contact-info {
+	float:left;
+	width:30%;
+	line-height: 1.5em;
